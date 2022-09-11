@@ -1,2 +1,2 @@
 # diagrams
-Representation of a few *ML diagrams
+Representation of a few *ML standard and custom diagrams
